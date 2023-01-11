@@ -1,1 +1,0 @@
-web: gunicorn buyo.wsgi --log-file -
